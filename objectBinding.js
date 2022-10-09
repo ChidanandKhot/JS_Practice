@@ -20,5 +20,5 @@ console.log(obj2);
 // document.write(obj.name);
 // document.write(obj.printFunction);
 // document.write(obj2());
-
+//   419077
 
